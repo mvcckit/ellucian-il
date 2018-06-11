@@ -1,0 +1,82 @@
+{
+	"version": "1.0.0",
+	"name": "",
+	"launch_path": "/index.html",
+	"description": "",
+	"developer": {
+		"name": "Eric Harms",
+		"url": "combojs.com"
+	},
+	"icons": [
+		{
+    		"src": "images/logo/logo-16x16.png",
+    		"sizes": "16x16",
+    		"type": "image/png"
+  		},	
+		{
+    		"src": "images/logo/logo-32x32.png",
+    		"sizes": "32x32",
+    		"type": "image/png"
+  		},	
+		{
+    		"src": "images/logo/logo-70x70.png",
+    		"sizes": "70x70",
+    		"type": "image/png"
+  		},	  		
+		{
+    		"src": "images/logo/logo-96x96.png",
+    		"sizes": "120x120",
+    		"type": "image/png"
+  		},		  		  			
+		{
+    		"src": "images/logo/logo-114x114.png",
+    		"sizes": "114x114",
+    		"type": "image/png"
+  		},	  		  		  			
+		{
+    		"src": "images/logo/logo-120x120.png",
+    		"sizes": "120x120",
+    		"type": "image/png"
+  		},	
+		{
+    		"src": "images/logo/logo-152x152.png",
+    		"sizes": "152x152",
+    		"type": "image/png"
+  		},
+		{
+    		"src": "images/logo/logo-167x167.png",
+    		"sizes": "167x167",
+    		"type": "image/png"
+  		},
+		{
+    		"src": "images/logo/logo-180x180.png",
+    		"sizes": "180x180",
+    		"type": "image/png"
+  		},  	
+		{
+    		"src": "images/logo/logo-270x270.png",
+    		"sizes": "270x270",
+    		"type": "image/png"
+  		},   		
+		{
+    		"src": "images/logo/logo-310x150.png",
+    		"sizes": "310x150",
+    		"type": "image/png"
+  		},    	
+		{
+    		"src": "images/logo/logo-310x310.png",
+    		"sizes": "310x310",
+    		"type": "image/png"
+  		},     				  			
+		{
+    		"src": "images/logo/logo-600x600.png",
+    		"sizes": "600x600",
+    		"type": "image/png"
+  		},
+		{
+    		"src": "images/logo/logo-1200x1200.png",
+    		"sizes": "1200x1200",
+    		"type": "image/png"
+  		}  		
+	]
+}

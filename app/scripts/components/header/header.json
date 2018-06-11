@@ -1,0 +1,33 @@
+{
+	"title": "Template",
+	"actions": [
+		{
+			"icon": "search",
+			"href": "#/"
+		}
+	],
+	"drawer": [
+		{
+			"text": "Home",
+			"icon": "home",
+			"href": "#/"
+		}
+	],
+	"buttons": [
+		{
+			"text": "Link 1",
+			"href": "#/"
+		},
+		{
+			"text": "Link 2",
+			"href": "#/"
+		}			
+	],
+	"options": [
+		{
+			"text": "Option",
+			"icon": "launch",
+			"href": "#/"
+		}
+	]
+}

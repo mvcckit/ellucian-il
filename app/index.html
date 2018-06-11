@@ -1,0 +1,97 @@
+<!doctype html>
+
+<html lang="en">
+
+	<!--#head-->
+
+	<head>
+	 	<title>[title]</title>
+
+		<!--#meta-->
+
+		<meta charset="utf-8">
+    	<meta name="application-name" content="[title]">
+		<meta name="apple-mobile-web-app-title" content="[title]">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="author" content="Eric Harms">
+		<meta name="description" content="Moraine Valley Community College">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="msapplication-tap-highlight" content="no">
+		<meta name="theme-color" content="#0A553E">
+		<meta name="msapplication-TileImage" content="/images/logo/logo-114x114.png">
+    	<meta name="msapplication-TileColor" content="#0A553E">
+    	<meta name="msapplication-tap-highlight" content="no">
+    	<meta name="mobile-web-app-capable" content="yes">
+  		<meta name="apple-mobile-web-app-capable" content="yes">
+
+		<!--#opengraph-->
+
+		<meta property="og:title" content="[title]">
+		<meta property="og:description" content="Moraine Valley Community College">		
+		<meta property="og:url" content="[url]">
+		<meta property="og:image" content="images/logo/logo-1200x1200.png">
+		<meta property="og:type" content="website">
+
+		<!--#twitter-card-->
+
+		<meta name="twitter:title" content="[title]">
+		<meta name="twitter:site" content="[url]">
+		<meta name="twitter:description" content="Moraine Valley Community College">
+		<meta name="twitter:image" content="images/logo/logo-600x600.png">
+		<meta name="twitter:card" content="summary">
+
+		<!--#json-ld-->
+
+		<script type="application/ld+json">
+			{
+				"@context": "http://schema.org",
+				"@type": "website",
+				"url": "[url]",
+				"name": "[title]",
+				"description": "Moraine Valley Community College",
+				"author": { "@type": "Person", "name": "Eric Harms"},
+				"logo": "images/logo/logo-1200x1200.png"
+			}
+		</script>
+
+		<!--#links-->
+		
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,500,700">
+		<link rel="stylesheet" href="styles/material.css">	
+ 
+
+		<!--#manifest-->
+		
+		<link rel="manifest" href="/manifest.json">
+
+		<!--#icons-->
+		
+		<link rel="icon" sizes="16x16" href="images/logo/logo-16x16.png">  
+		<link rel="icon" sizes="32x32" href="images/logo/logo-32x32.png">  
+		<link rel="icon" sizes="96x96" href="images/logo/logo-96x96.png">  
+		<link rel="icon" sizes="192x192" href="images/logo/logo-192x192.png">		
+
+		<link rel="apple-touch-icon" href="images/logo/logo-120x120.png">  
+		<link rel="apple-touch-icon" sizes="180x180" href="images/logo/logo-180x180.png">  
+		<link rel="apple-touch-icon" sizes="152x152" href="images/logo/logo-152x152.png">  
+		<link rel="apple-touch-icon" sizes="167x167" href="images/logo/logo-167x167.png">  
+
+		<!--#webpack-->
+		
+	</head>
+
+	<!--#body-->
+
+	<body onclick="$matReset('#drawer')">
+		<!--#root-->
+
+		<div id="root">
+		</div>
+
+		<!--#scripts-->
+
+		<script src="builds/app.js"></script>
+		<script src="builds/mat.js"></script>
+	</body>
+</html>
